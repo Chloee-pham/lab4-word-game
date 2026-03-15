@@ -2,11 +2,6 @@
 
 import random
 
-
-# ============================================================================
-# LOGIC LAYER - Pure functions, no I/O
-# ============================================================================
-
 def update_game_state(secret_word: str,
                       guessed_letters: list[str],
                       guess: str,
