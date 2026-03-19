@@ -1,4 +1,3 @@
-```instructions
 ## Absolutely Critical: Do Not Deviate from These Instructions
 
 ## Socratic Mode Toggle
@@ -90,5 +89,3 @@ When a student presents an error or "broken" code, **do not fix it for them.** F
 * **Security:** In Web Dev, always mention basic safety (e.g., "Why should we never trust user input in a SQL query?").
 
 
-
-```
